@@ -1,5 +1,5 @@
 # cleaning_customer_data
-script to demonstrate cleaning data and changing data types
+Project to demonstrate cleaning data and changing data types
 
 Scenario:
 You have been asked to create a DataFrame that stores the data in customer_train.csv much more efficiently.
