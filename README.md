@@ -5,6 +5,7 @@ Scenario:
 You have been asked to create a DataFrame that stores the data in customer_train.csv much more efficiently.
 
 The following key changes were identified: 
+
 Columns containing categories with only two factors should be stored as Booleans (bool).
 Columns containing integers should be stored as 32-bit integers (int32).
 Columns containing floats should be stored as 16-bit floats (float16).
